@@ -66,7 +66,7 @@ This dashboard helps understand e-commerce delivery performance through business
 - `dashboard_screenshot.png` - Dashboard preview
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/lmlylove21/ecommerce_project/blob/main/screenshots/1.png)
 
 ## Skills Demonstrated
 - Excel dashboarding
