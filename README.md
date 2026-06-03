@@ -50,12 +50,14 @@ The dataset contains e-commerce order records with fields such as:
 - Created pivot tables for summary analysis.
 - Built calculated KPI metrics for dashboard reporting.
 
-## Key Insights
-- Personal Care generated the highest revenue among product categories.
-- Swiggy Instamart recorded the highest number of orders.
-- JioMart had the highest average delivery time.
-- Refund requests made up a significant share of total orders.
-- Delivery delay percentage helped identify operational performance gaps.
+
+## Key Business Insights
+-Personal Care generated the highest revenue among all product categories.
+-Swiggy Instamart recorded the highest order volume across platforms.
+-JioMart showed slightly higher average delivery times compared to other platforms.
+-Refund requests accounted for a noticeable share of total orders.
+-Delay percentages helped highlight platform-level operational efficiency gaps.
+
 
 ## Project Outcome
 This dashboard helps understand e-commerce delivery performance through business-focused KPIs and visual analysis. It can support decision-making related to platform performance, customer satisfaction, refund handling, and delivery efficiency.
